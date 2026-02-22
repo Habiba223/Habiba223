@@ -58,7 +58,7 @@ I don’t just write code… I engineer solutions 💡
 
 📫 Connect With Me
 
-💼 LinkedIn: (https://www.linkedin.com/in/habiba-ramy/)
+💼 LinkedIn: (linkedin.com/in/habiba-ramy/)
 
 📧 Email: (haibaramy44@gmail.com)
 
