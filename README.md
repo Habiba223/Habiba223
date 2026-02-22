@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=["https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JwcWl0dTVxZm5nOTRycXNhd2h3dmdlZ3hteHdoNXE5NDZ3MmR6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JwcWl0dTVxZm5nOTRycXNhd2h3dmdlZ3hteHdoNXE5NDZ3MmR6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif" width="55%"/>
 
 # Hi 👋 I'm Habiba Ramy
 ### Software Engineer | AI Enthusiast | Problem Solver
