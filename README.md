@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
+<img src=["https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JwcWl0dTVxZm5nOTRycXNhd2h3dmdlZ3hteHdoNXE5NDZ3MmR6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)/>
 
 # Hi 👋 I'm Habiba Ramy
 ### Software Engineer | AI Enthusiast | Problem Solver
@@ -58,7 +58,7 @@ I don’t just write code… I engineer solutions 💡
 
 📫 Connect With Me
 
-💼 LinkedIn: (https://www.linkedin.com/in/habiba-ramy)
+💼 LinkedIn: (https://www.linkedin.com/in/habiba-ramy/)
 
 📧 Email: (haibaramy44@gmail.com)
 
